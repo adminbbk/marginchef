@@ -1,0 +1,5 @@
+lib/generated
+prisma/migrations
+.next
+package-lock.json
+PLAN.md
